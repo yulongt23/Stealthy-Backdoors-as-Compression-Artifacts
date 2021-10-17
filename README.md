@@ -1,6 +1,6 @@
 # Stealthy Backdoors as Compression Artifacts
 
-This repo contains the implementation of Stealthy Backdoors as Compression Artifacts. We also provide some models resulted from our attack [here](https://www.notion.so/Stealthy-Backdoors-as-Compression-Artifacts-52d5ebf3fad74025831142412f2299b9).
+This repo contains the implementation of Stealthy Backdoors as Compression Artifacts. We also provide some models resulted from our attack [here](https://yulongtian.notion.site/Stealthy-Backdoors-as-Compression-Artifacts-52d5ebf3fad74025831142412f2299b9).
 
 In this project, some code is from https://github.com/kuangliu/pytorch-cifar ([MIT License](https://github.com/kuangliu/pytorch-cifar/blob/master/LICENSE)), https://github.com/AI-secure/Meta-Nerual-Trojan-Detection, https://github.com/bolunwang/backdoor ([MIT License](https://github.com/bolunwang/backdoor/blob/master/LICENSE)), https://github.com/tomlawrenceuk/GTSRB-Dataloader, and https://github.com/microsoft/nni ([MIT License](https://github.com/microsoft/nni/blob/master/LICENSE)). Thank the owners of those repositories for open-sourcing their code.
 
